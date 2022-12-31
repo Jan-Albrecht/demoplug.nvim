@@ -1,0 +1,2 @@
+# demoplug.nvim
+Demo Plugin
